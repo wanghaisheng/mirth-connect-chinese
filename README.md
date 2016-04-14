@@ -8,3 +8,7 @@ mirth connect docs in Chinese  更多有关mirth connect的中文文档 方便�
 * [mirth 官方网站](https://www.mirth.com/)
 
 * [论坛](http://www.mirthcorp.com/community/forums) 
+
+* [wiki](http://www.mirthcorp.com/community/wiki/dashboard.action) 
+
+* [源码库 SVN](https://svn.mirthcorp.com/connect/)
